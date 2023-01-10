@@ -1,0 +1,15 @@
+
+npm install -g typescript
+
+tsc -w index.ts
+
+tsc --init  => rootDir  => outDir   =>tsc  =>tsc -w
+
+ node js/ index.js
+
+
+Compiler Options
+ noImplicitAny            any
+ noImplicitReturns        Returns
+ noUnusedLocals           variables
+ noUnusedParameters       Parameters
