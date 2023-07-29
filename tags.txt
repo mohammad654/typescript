@@ -1,0 +1,7 @@
+TypeScript
+
+npm install -g typescript
+tsc --init
+tsc -w or tsc -w typescript.ts
+tsc -v
+        
